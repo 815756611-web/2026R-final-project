@@ -1,0 +1,6 @@
+system,tag,map_type,original_voxels,copied_file,source_nifti
+reappraisal_only,AHAB,after_cluster,3110,orig_ac_AHAB.nii.gz,reappraisal_only_after_cluster_AHAB.nii.gz
+reappraisal_only,AHAB,before_cluster,3391,orig_bc_AHAB.nii.gz,reappraisal_only_before_cluster_AHAB.nii.gz
+reappraisal_only,AHAB_PIP,consensus,4052,orig_con_AHAB_PIP.nii.gz,reappraisal_only_consensus_AHAB_PIP.nii.gz
+reappraisal_only,PIP,after_cluster,2464,orig_ac_PIP.nii.gz,reappraisal_only_after_cluster_PIP.nii.gz
+reappraisal_only,PIP,before_cluster,2707,orig_bc_PIP.nii.gz,reappraisal_only_before_cluster_PIP.nii.gz

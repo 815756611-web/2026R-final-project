@@ -1,0 +1,6 @@
+system,tag,map_type,original_voxels,copied_file,source_nifti
+modifiable_emotion,AHAB,after_cluster,14662,orig_ac_AHAB.nii.gz,modifiable_emotion_after_cluster_AHAB.nii.gz
+modifiable_emotion,AHAB,before_cluster,14796,orig_bc_AHAB.nii.gz,modifiable_emotion_before_cluster_AHAB.nii.gz
+modifiable_emotion,AHAB_PIP,consensus,13087,orig_con_AHAB_PIP.nii.gz,modifiable_emotion_consensus_AHAB_PIP.nii.gz
+modifiable_emotion,PIP,after_cluster,5775,orig_ac_PIP.nii.gz,modifiable_emotion_after_cluster_PIP.nii.gz
+modifiable_emotion,PIP,before_cluster,5865,orig_bc_PIP.nii.gz,modifiable_emotion_before_cluster_PIP.nii.gz

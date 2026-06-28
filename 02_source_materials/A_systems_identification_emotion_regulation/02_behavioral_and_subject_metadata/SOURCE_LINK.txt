@@ -1,0 +1,11 @@
+这个目录在原副本中对应行为数据和部分元数据。
+
+公开来源：
+- PIP 相关 OSF 项目
+- https://osf.io/hk6qx/
+- KeBo 原始仓库
+- https://github.com/KeBo2018/KeBo2023_EmotionReg_BayesFactor
+
+说明：
+- `MetaInfo_IDoff.xlsx` 来自 KeBo 仓库。
+- `AHAB_FullData_Meta.mat` 与 `PIP_FullData_Meta.mat` 在原文公开链接中未直接下载到。

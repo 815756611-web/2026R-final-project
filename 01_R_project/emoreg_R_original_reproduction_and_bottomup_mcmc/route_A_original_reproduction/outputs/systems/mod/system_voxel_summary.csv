@@ -1,0 +1,3 @@
+dataset,tag,system,n_subjects,bf_method,bf_threshold_2log,voxels_before_cluster,voxels_after_cluster,cluster_min_voxels
+AHAB,AHAB,modifiable_emotion,182,jzs_exact,4.6,14796,14662,15
+PIP,PIP,modifiable_emotion,176,jzs_exact,4.6,5865,5775,15

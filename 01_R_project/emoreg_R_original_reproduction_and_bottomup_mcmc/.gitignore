@@ -1,0 +1,6 @@
+data/raw/*
+!data/raw/SOURCE_DATA_LINKS.txt
+data/processed/*
+!data/processed/NOT_UPLOADED_REGENERATE_FROM_CODE.txt
+*.RData
+.Rhistory

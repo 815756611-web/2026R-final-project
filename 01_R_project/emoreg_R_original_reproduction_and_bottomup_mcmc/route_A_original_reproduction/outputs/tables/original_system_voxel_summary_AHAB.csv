@@ -1,0 +1,5 @@
+dataset,tag,system,n_subjects,bf_method,bf_threshold_2log,voxels_before_cluster,voxels_after_cluster,cluster_min_voxels
+AHAB,AHAB,common_appraisal,182,jzs_exact,4.6,24927,24848,15
+AHAB,AHAB,reappraisal_only,182,jzs_exact,4.6,3391,3110,15
+AHAB,AHAB,non_modifiable_emotion,182,jzs_exact,4.6,19051,18829,15
+AHAB,AHAB,modifiable_emotion,182,jzs_exact,4.6,14796,14662,15

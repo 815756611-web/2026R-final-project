@@ -1,0 +1,3 @@
+dataset,tag,system,n_subjects,bf_method,bf_threshold_2log,voxels_before_cluster,voxels_after_cluster,cluster_min_voxels
+AHAB,AHAB,reappraisal_only,182,jzs_exact,4.6,3391,3110,15
+PIP,PIP,reappraisal_only,176,jzs_exact,4.6,2707,2464,15

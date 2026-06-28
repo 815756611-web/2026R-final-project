@@ -1,0 +1,2 @@
+system,original_matlab_logic
+common_appraisal,"BF(Reg-Neg)>T, BF(Neg-Neu)>T, t(Reg-Neg)>0, t(Neg-Neu)>0, t(LookNeg)>0"

@@ -1,0 +1,74 @@
+# 不可调节情绪系统：ROI 连通簇
+
+这里的 ROI 是从该系统非空图中提取的三维连通簇。
+
+为了避免同一脑区重复出现，脚本已经按固定系统顺序做互斥分配；已经进入前面系统的体素不会再进入本系统。
+
+| tag | map_type | roi_folder | n_voxels | centroid_i | centroid_j | centroid_k |
+| --- | --- | --- | --- | --- | --- | --- |
+| AHAB | after_cluster | r001_ac_ahab |    21 | 36.10 | 22.81 | 75.14 |
+| AHAB | after_cluster | r002_ac_ahab | 17843 | 36.25 | 55.68 | 40.33 |
+| AHAB | after_cluster | r003_ac_ahab |   214 | 66.59 | 60.40 | 51.14 |
+| AHAB | after_cluster | r004_ac_ahab |    21 | 43.05 | 59.57 | 60.71 |
+| AHAB | after_cluster | r005_ac_ahab |    21 | 35.10 | 61.24 | 60.29 |
+| AHAB | after_cluster | r006_ac_ahab |    41 | 28.63 | 71.44 | 58.34 |
+| AHAB | after_cluster | r007_ac_ahab |    35 | 24.74 | 94.29 | 50.91 |
+| AHAB | after_cluster | r008_ac_ahab |    91 | 39.53 | 58.11 | 50.68 |
+| AHAB | after_cluster | r009_ac_ahab |    18 | 63.06 | 91.28 | 46.44 |
+| AHAB | after_cluster | r010_ac_ahab |    23 | 17.30 | 36.30 | 43.65 |
+| AHAB | after_cluster | r011_ac_ahab |    23 | 38.09 | 50.13 | 43.83 |
+| AHAB | after_cluster | r012_ac_ahab |    16 | 39.81 | 67.38 | 43.56 |
+| AHAB | after_cluster | r013_ac_ahab |    40 |  4.30 | 66.88 | 30.18 |
+| AHAB | after_cluster | r014_ac_ahab |   140 | 72.89 | 56.70 | 23.46 |
+| AHAB | after_cluster | r015_ac_ahab |   151 | 10.38 | 55.27 | 25.77 |
+| AHAB | after_cluster | r016_ac_ahab |    35 | 45.11 | 23.29 | 23.00 |
+| AHAB | after_cluster | r017_ac_ahab |    16 | 39.25 | 21.50 | 24.00 |
+| AHAB | after_cluster | r018_ac_ahab |    62 | 70.66 | 69.84 | 17.74 |
+| AHAB | after_cluster | r019_ac_ahab |    18 | 57.78 | 54.00 | 17.39 |
+| AHAB_PIP | consensus | r001_con_ahab_pip |  1436 | 25.56 | 57.71 | 64.99 |
+| AHAB_PIP | consensus | r002_con_ahab_pip |   857 | 50.16 | 57.79 | 65.05 |
+| AHAB_PIP | consensus | r003_con_ahab_pip |    45 | 44.09 | 71.22 | 71.29 |
+| AHAB_PIP | consensus | r004_con_ahab_pip |  2125 | 51.17 | 26.96 | 61.71 |
+| AHAB_PIP | consensus | r005_con_ahab_pip |  2792 | 24.57 | 29.21 | 61.95 |
+| AHAB_PIP | consensus | r006_con_ahab_pip |    18 | 36.44 | 75.33 | 68.39 |
+| AHAB_PIP | consensus | r007_con_ahab_pip |  1172 | 65.79 | 70.62 | 45.91 |
+| AHAB_PIP | consensus | r008_con_ahab_pip | 12294 | 30.90 | 60.62 | 32.43 |
+| AHAB_PIP | consensus | r009_con_ahab_pip |   275 | 40.07 | 58.60 | 50.72 |
+| AHAB_PIP | consensus | r010_con_ahab_pip |   354 | 37.41 | 86.98 | 47.27 |
+| AHAB_PIP | consensus | r011_con_ahab_pip |   761 | 39.72 | 33.45 | 47.10 |
+| AHAB_PIP | consensus | r012_con_ahab_pip |    91 | 43.91 | 79.35 | 47.86 |
+| AHAB_PIP | consensus | r013_con_ahab_pip |    16 | 15.06 | 25.12 | 48.00 |
+| AHAB_PIP | consensus | r014_con_ahab_pip |    28 | 37.86 | 67.00 | 44.79 |
+| AHAB_PIP | consensus | r015_con_ahab_pip |  3255 | 60.58 | 20.40 | 30.69 |
+| AHAB_PIP | consensus | r016_con_ahab_pip |  3094 | 18.95 | 20.80 | 29.59 |
+| AHAB_PIP | consensus | r017_con_ahab_pip |  1908 | 46.35 | 81.33 | 23.81 |
+| AHAB_PIP | consensus | r018_con_ahab_pip |   184 | 69.15 | 73.67 | 18.23 |
+| AHAB_PIP | consensus | r019_con_ahab_pip |   148 | 11.70 | 74.26 | 15.40 |
+| AHAB_PIP | consensus | r020_con_ahab_pip |    60 | 56.50 | 53.62 | 17.17 |
+| PIP | after_cluster | r001_ac_pip |  4573 | 31.71 | 60.36 | 35.84 |
+| PIP | after_cluster | r002_ac_pip |   239 | 52.49 | 57.83 | 65.75 |
+| PIP | after_cluster | r003_ac_pip |  2322 | 22.18 | 23.53 | 46.99 |
+| PIP | after_cluster | r004_ac_pip |   113 | 39.75 | 71.32 | 69.67 |
+| PIP | after_cluster | r005_ac_pip |  1271 | 49.64 | 29.48 | 57.11 |
+| PIP | after_cluster | r006_ac_pip |   707 | 39.00 | 70.28 | 50.98 |
+| PIP | after_cluster | r007_ac_pip |   962 | 62.61 | 70.43 | 43.52 |
+| PIP | after_cluster | r008_ac_pip |    16 | 22.25 | 92.50 | 49.00 |
+| PIP | after_cluster | r009_ac_pip |  1266 | 60.23 | 19.00 | 32.44 |
+| PIP | after_cluster | r010_ac_pip |    70 | 30.24 | 40.67 | 36.66 |
+| PIP | after_cluster | r011_ac_pip |    74 | 55.16 | 64.14 | 37.86 |
+| PIP | after_cluster | r012_ac_pip |    15 | 51.47 | 44.20 | 33.00 |
+| PIP | after_cluster | r013_ac_pip |   256 | 39.90 | 87.72 | 26.24 |
+| PIP | after_cluster | r014_ac_pip |    83 | 62.55 | 38.89 | 26.02 |
+| PIP | after_cluster | r015_ac_pip |    20 | 59.60 | 46.20 | 23.70 |
+| PIP | after_cluster | r016_ac_pip |    53 | 20.66 | 41.25 | 23.98 |
+| PIP | after_cluster | r017_ac_pip |    44 | 40.36 | 28.91 | 21.59 |
+| PIP | after_cluster | r018_ac_pip |   475 | 66.85 | 74.17 | 14.14 |
+| PIP | after_cluster | r019_ac_pip |    72 | 44.04 | 18.49 | 16.69 |
+| PIP | after_cluster | r020_ac_pip |   244 | 13.75 | 75.33 | 13.28 |
+| PIP | after_cluster | r021_ac_pip |    76 | 54.79 | 53.16 | 17.64 |
+| PIP | after_cluster | r022_ac_pip |    58 | 53.64 | 75.67 | 17.43 |
+| PIP | after_cluster | r023_ac_pip |   117 | 25.39 | 54.50 | 15.60 |
+| PIP | after_cluster | r024_ac_pip |    22 | 29.09 | 81.77 | 13.95 |
+| PIP | after_cluster | r025_ac_pip |   107 | 28.42 | 37.02 | 13.76 |
+| PIP | after_cluster | r026_ac_pip |    17 | 51.88 | 38.18 | 13.29 |
+| PIP | after_cluster | r027_ac_pip |    18 | 53.33 | 20.39 | 12.56 |

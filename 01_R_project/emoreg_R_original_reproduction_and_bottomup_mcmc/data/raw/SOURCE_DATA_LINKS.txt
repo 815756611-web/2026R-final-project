@@ -1,0 +1,31 @@
+01_R_project/data 在这个 GitHub 仓库中不直接上传真实数据。
+
+对应来源如下：
+
+1. 一阶 beta 图
+- NeuroVault collection 16266
+- https://neurovault.org/collections/16266/
+
+2. 行为与部分被试元数据
+- PIP 相关 OSF 项目
+- https://osf.io/hk6qx/
+- KeBo 原始仓库
+- https://github.com/KeBo2018/KeBo2023_EmotionReg_BayesFactor
+
+3. 原文四类系统图
+- KeBo 原始仓库
+- https://github.com/KeBo2018/KeBo2023_EmotionReg_BayesFactor
+- CANlab 2024 Bo emotion regulation maps
+- https://github.com/canlab/Neuroimaging_Pattern_Masks/tree/master/Individual_study_maps/2024_Bo_EmotionRegulation_BayesFactor
+
+4. PET / 神经递质图
+- CANlab Hansen PET tracer maps
+- https://github.com/canlab/Neuroimaging_Pattern_Masks/tree/master/Atlases_and_parcellations/2022_Hansen_PET_tracer_maps
+- KeBo 仓库中的 Z-scored averaged 文件
+- https://github.com/KeBo2018/KeBo2023_EmotionReg_BayesFactor
+
+5. Neurosynth / meta maps
+- CANlab Neurosynth maps
+- https://github.com/canlab/Neuroimaging_Pattern_Masks/tree/master/Neurosynth_maps
+
+仓库内 `02_source_materials` 目录下的各个 `SOURCE_LINK.txt` 给出了更细的对应关系。

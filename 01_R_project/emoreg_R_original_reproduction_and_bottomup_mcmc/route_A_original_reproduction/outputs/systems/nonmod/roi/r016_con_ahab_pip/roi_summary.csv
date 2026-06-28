@@ -1,0 +1,2 @@
+route,system,system_label,tag,map_type,roi_folder,component_id,n_voxels,centroid_i,centroid_j,centroid_k,original_voxels_in_system_map,exclusive_voxels_after_overlap_removal,overlap_voxels_removed_before_assignment,source_nifti
+A,non_modifiable_emotion,不可调节情绪系统,AHAB_PIP,consensus,r016_con_ahab_pip,16,3094,18.95,20.8,29.59,31835,30940,895,non_modifiable_emotion_consensus_AHAB_PIP.nii.gz

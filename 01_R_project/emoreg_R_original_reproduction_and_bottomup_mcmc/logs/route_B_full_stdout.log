@@ -1,0 +1,54 @@
+Cleaned output: Route B outputs
+
+>>> Rscript scripts/00_install_r_packages.R
+R package check complete.
+
+>>> Rscript scripts/00_setup_relative_data.R
+Relative data files are ready under C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/data/raw
+Linked/copied file counts:
+  beta_maps: 1074
+  system_maps: 16
+  pet_maps: 58
+  behavior: 11
+
+>>> Rscript route_B_bottomup_mcmc/scripts/04_prepare_bottomup_features.R --unit roi --dataset AHAB --roi-source downloaded --tag AHAB
+Route B pooled ROI features prepared:
+  C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/route_B_bottomup_mcmc/outputs/tables/roi_subject_features_AHAB.rds
+
+>>> Rscript route_B_bottomup_mcmc/scripts/05_bottomup_mcmc.R --features route_B_bottomup_mcmc/outputs/tables/roi_subject_features_AHAB.rds --iter 4000 --burn 2000 --thin 1 --k-grid 2:6 --tag AHAB
+[1] TRUE
+Route B MCMC complete:
+  overall_recommended_K = 2
+  C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/route_B_bottomup_mcmc/outputs/tables/mcmc_posterior_AHAB.csv
+
+>>> Rscript route_B_bottomup_mcmc/scripts/06_interpret_mcmc_regions.R --posterior route_B_bottomup_mcmc/outputs/tables/mcmc_posterior_AHAB.csv --features route_B_bottomup_mcmc/outputs/tables/roi_subject_features_AHAB.rds --tag AHAB
+Route B interpretation written:
+  C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/route_B_bottomup_mcmc/outputs/tables/mcmc_interpretation_AHAB.md
+
+>>> Rscript route_B_bottomup_mcmc/scripts/07_organize_k_cluster_outputs.R --tag AHAB
+Route B organized K/cluster outputs written:
+  C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/route_B_bottomup_mcmc/outputs/by_k/AHAB
+
+>>> Rscript route_B_bottomup_mcmc/scripts/04_prepare_bottomup_features.R --unit roi --dataset PIP --roi-source downloaded --tag PIP
+Route B pooled ROI features prepared:
+  C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/route_B_bottomup_mcmc/outputs/tables/roi_subject_features_PIP.rds
+
+>>> Rscript route_B_bottomup_mcmc/scripts/05_bottomup_mcmc.R --features route_B_bottomup_mcmc/outputs/tables/roi_subject_features_PIP.rds --iter 4000 --burn 2000 --thin 1 --k-grid 2:6 --tag PIP
+[1] TRUE
+Route B MCMC complete:
+  overall_recommended_K = 2
+  C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/route_B_bottomup_mcmc/outputs/tables/mcmc_posterior_PIP.csv
+
+>>> Rscript route_B_bottomup_mcmc/scripts/06_interpret_mcmc_regions.R --posterior route_B_bottomup_mcmc/outputs/tables/mcmc_posterior_PIP.csv --features route_B_bottomup_mcmc/outputs/tables/roi_subject_features_PIP.rds --tag PIP
+Route B interpretation written:
+  C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/route_B_bottomup_mcmc/outputs/tables/mcmc_interpretation_PIP.md
+
+>>> Rscript route_B_bottomup_mcmc/scripts/07_organize_k_cluster_outputs.R --tag PIP
+Route B organized K/cluster outputs written:
+  C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/route_B_bottomup_mcmc/outputs/by_k/PIP
+
+>>> Rscript route_B_bottomup_mcmc/scripts/08_compare_dataset_clusters.R --tag1 AHAB --tag2 PIP
+Route B dataset cluster comparison complete:
+  C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/route_B_bottomup_mcmc/outputs/dataset_comparison/AHAB_PIP
+
+Bottom-up MCMC full run complete for dataset(s): AHAB, PIP

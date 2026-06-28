@@ -1,0 +1,5 @@
+system,original_matlab_logic
+common_appraisal,"BF(Reg-Neg)>T, BF(Neg-Neu)>T, t(Reg-Neg)>0, t(Neg-Neu)>0, t(LookNeg)>0"
+reappraisal_only,"BF(Reg-Neg)>T, BF(Neg-Neu)<-T, t(Reg-Neg)>0, t(RegNeg)>0"
+non_modifiable_emotion,"BF(Reg-Neg)<-T, BF(Neg-Neu)>T, t(Neg-Neu)>0, t(LookNeg)>0"
+modifiable_emotion,"BF(Reg-Neg)>T, BF(Neg-Neu)>T, t(Neg-Neu)>0, t(Reg-Neg)<0, t(LookNeg)>0"

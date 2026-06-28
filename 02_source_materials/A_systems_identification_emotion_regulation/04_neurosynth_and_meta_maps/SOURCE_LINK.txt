@@ -1,0 +1,7 @@
+这个目录在原副本中对应 Neurosynth / meta maps。
+
+公开来源：
+- CANlab Neurosynth maps
+- https://github.com/canlab/Neuroimaging_Pattern_Masks/tree/master/Neurosynth_maps
+- Neurosynth data repo
+- https://github.com/neurosynth/neurosynth-data

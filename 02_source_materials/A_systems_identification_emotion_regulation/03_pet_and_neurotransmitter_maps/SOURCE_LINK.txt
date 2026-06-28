@@ -1,0 +1,7 @@
+这个目录在原副本中对应 PET / 神经递质图。
+
+公开来源：
+- CANlab Hansen PET tracer maps
+- https://github.com/canlab/Neuroimaging_Pattern_Masks/tree/master/Atlases_and_parcellations/2022_Hansen_PET_tracer_maps
+- KeBo 原始仓库
+- https://github.com/KeBo2018/KeBo2023_EmotionReg_BayesFactor

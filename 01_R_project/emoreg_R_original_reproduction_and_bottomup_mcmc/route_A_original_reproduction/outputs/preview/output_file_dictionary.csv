@@ -1,0 +1,9 @@
+file_pattern,original_matlab_name,paper_meaning,view_tip
+t_emotion_generation_*.nii.gz,tNegNeu,"Emotion generation contrast: Look negative minus Look neutral, group one-sample t map.",Use a signed color scale; positive means LookNeg > LookNeu.
+t_reappraisal_effect_*.nii.gz,tRegNeg,"Reappraisal effect contrast: Regulate negative minus Look negative, group one-sample t map.",Use a signed color scale; negative means RegNeg < LookNeg.
+two_log_bf_emotion_generation_*.nii.gz,"BF_NegNeu = estimateBayesFactor(tNegNeu, 't')",Paper-style Bayes factor evidence for emotion generation; values are 2*log(BF10).,Threshold around 4.6 for BF10 about 10; around -4.6 for BF10 about 0.1.
+two_log_bf_reappraisal_effect_*.nii.gz,"BF_RegNeg = estimateBayesFactor(tRegNeg, 't')",Paper-style Bayes factor evidence for reappraisal effect; values are 2*log(BF10).,Threshold around 4.6 for BF10 about 10; around -4.6 for BF10 about 0.1.
+common_appraisal_*_cluster_*.nii.gz,CommonAppraisal_SystemIdx,Common appraisal system mask from BF/t logical rules.,Binary mask: 1 means voxel belongs to the reproduced system.
+reappraisal_only_*_cluster_*.nii.gz,ReappraisalOnly_SystemIdx,Reappraisal-only system mask from BF/t logical rules.,Binary mask: 1 means voxel belongs to the reproduced system.
+non_modifiable_emotion_*_cluster_*.nii.gz,NonmodifibleEmotion_SystemIdx,Non-modifiable emotion system mask from BF/t logical rules.,Binary mask: 1 means voxel belongs to the reproduced system.
+modifiable_emotion_*_cluster_*.nii.gz,ModifibleEmotion_SystemIdx,Modifiable emotion system mask from BF/t logical rules.,Binary mask: 1 means voxel belongs to the reproduced system.

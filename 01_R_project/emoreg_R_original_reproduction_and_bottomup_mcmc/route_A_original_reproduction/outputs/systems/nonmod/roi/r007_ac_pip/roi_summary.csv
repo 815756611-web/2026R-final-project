@@ -1,0 +1,2 @@
+route,system,system_label,tag,map_type,roi_folder,component_id,n_voxels,centroid_i,centroid_j,centroid_k,original_voxels_in_system_map,exclusive_voxels_after_overlap_removal,overlap_voxels_removed_before_assignment,source_nifti
+A,non_modifiable_emotion,不可调节情绪系统,PIP,after_cluster,r007_ac_pip,7,962,62.61,70.43,43.52,13290,13290,0,non_modifiable_emotion_after_cluster_PIP.nii.gz

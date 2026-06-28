@@ -1,0 +1,2 @@
+n_roi_units,n_source_labels_retained,note
+61,4,Route B pools all original ROI observations in one model. source_system is retained only inside roi_table/mcmc_posterior for provenance and is not used for grouping.

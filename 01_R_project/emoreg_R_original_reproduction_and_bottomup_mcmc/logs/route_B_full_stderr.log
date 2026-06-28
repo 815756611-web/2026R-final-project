@@ -1,0 +1,801 @@
+Building Route B ROI units from original system maps: source=downloaded
+Extracting subject-by-ROI features. All ROI observations are pooled for Route B MCMC.
+ROI extraction subject 1/182 AHAB_1
+ROI extraction subject 2/182 AHAB_2
+ROI extraction subject 3/182 AHAB_3
+ROI extraction subject 4/182 AHAB_4
+ROI extraction subject 5/182 AHAB_5
+ROI extraction subject 6/182 AHAB_6
+ROI extraction subject 7/182 AHAB_7
+ROI extraction subject 8/182 AHAB_8
+ROI extraction subject 9/182 AHAB_9
+ROI extraction subject 10/182 AHAB_10
+ROI extraction subject 11/182 AHAB_11
+ROI extraction subject 12/182 AHAB_12
+ROI extraction subject 13/182 AHAB_13
+ROI extraction subject 14/182 AHAB_14
+ROI extraction subject 15/182 AHAB_15
+ROI extraction subject 16/182 AHAB_16
+ROI extraction subject 17/182 AHAB_17
+ROI extraction subject 18/182 AHAB_18
+ROI extraction subject 19/182 AHAB_19
+ROI extraction subject 20/182 AHAB_20
+ROI extraction subject 21/182 AHAB_21
+ROI extraction subject 22/182 AHAB_22
+ROI extraction subject 23/182 AHAB_23
+ROI extraction subject 24/182 AHAB_24
+ROI extraction subject 25/182 AHAB_25
+ROI extraction subject 26/182 AHAB_26
+ROI extraction subject 27/182 AHAB_27
+ROI extraction subject 28/182 AHAB_28
+ROI extraction subject 29/182 AHAB_29
+ROI extraction subject 30/182 AHAB_30
+ROI extraction subject 31/182 AHAB_31
+ROI extraction subject 32/182 AHAB_32
+ROI extraction subject 33/182 AHAB_33
+ROI extraction subject 34/182 AHAB_34
+ROI extraction subject 35/182 AHAB_35
+ROI extraction subject 36/182 AHAB_36
+ROI extraction subject 37/182 AHAB_37
+ROI extraction subject 38/182 AHAB_38
+ROI extraction subject 39/182 AHAB_39
+ROI extraction subject 40/182 AHAB_40
+ROI extraction subject 41/182 AHAB_41
+ROI extraction subject 42/182 AHAB_42
+ROI extraction subject 43/182 AHAB_43
+ROI extraction subject 44/182 AHAB_44
+ROI extraction subject 45/182 AHAB_45
+ROI extraction subject 46/182 AHAB_46
+ROI extraction subject 47/182 AHAB_47
+ROI extraction subject 48/182 AHAB_48
+ROI extraction subject 49/182 AHAB_49
+ROI extraction subject 50/182 AHAB_50
+ROI extraction subject 51/182 AHAB_51
+ROI extraction subject 52/182 AHAB_52
+ROI extraction subject 53/182 AHAB_53
+ROI extraction subject 54/182 AHAB_54
+ROI extraction subject 55/182 AHAB_55
+ROI extraction subject 56/182 AHAB_56
+ROI extraction subject 57/182 AHAB_57
+ROI extraction subject 58/182 AHAB_58
+ROI extraction subject 59/182 AHAB_59
+ROI extraction subject 60/182 AHAB_60
+ROI extraction subject 61/182 AHAB_61
+ROI extraction subject 62/182 AHAB_62
+ROI extraction subject 63/182 AHAB_63
+ROI extraction subject 64/182 AHAB_64
+ROI extraction subject 65/182 AHAB_65
+ROI extraction subject 66/182 AHAB_66
+ROI extraction subject 67/182 AHAB_67
+ROI extraction subject 68/182 AHAB_68
+ROI extraction subject 69/182 AHAB_69
+ROI extraction subject 70/182 AHAB_70
+ROI extraction subject 71/182 AHAB_71
+ROI extraction subject 72/182 AHAB_72
+ROI extraction subject 73/182 AHAB_73
+ROI extraction subject 74/182 AHAB_74
+ROI extraction subject 75/182 AHAB_75
+ROI extraction subject 76/182 AHAB_76
+ROI extraction subject 77/182 AHAB_77
+ROI extraction subject 78/182 AHAB_78
+ROI extraction subject 79/182 AHAB_79
+ROI extraction subject 80/182 AHAB_80
+ROI extraction subject 81/182 AHAB_81
+ROI extraction subject 82/182 AHAB_82
+ROI extraction subject 83/182 AHAB_83
+ROI extraction subject 84/182 AHAB_84
+ROI extraction subject 85/182 AHAB_85
+ROI extraction subject 86/182 AHAB_86
+ROI extraction subject 87/182 AHAB_87
+ROI extraction subject 88/182 AHAB_88
+ROI extraction subject 89/182 AHAB_89
+ROI extraction subject 90/182 AHAB_90
+ROI extraction subject 91/182 AHAB_91
+ROI extraction subject 92/182 AHAB_92
+ROI extraction subject 93/182 AHAB_93
+ROI extraction subject 94/182 AHAB_94
+ROI extraction subject 95/182 AHAB_95
+ROI extraction subject 96/182 AHAB_96
+ROI extraction subject 97/182 AHAB_97
+ROI extraction subject 98/182 AHAB_98
+ROI extraction subject 99/182 AHAB_99
+ROI extraction subject 100/182 AHAB_100
+ROI extraction subject 101/182 AHAB_101
+ROI extraction subject 102/182 AHAB_102
+ROI extraction subject 103/182 AHAB_103
+ROI extraction subject 104/182 AHAB_104
+ROI extraction subject 105/182 AHAB_105
+ROI extraction subject 106/182 AHAB_106
+ROI extraction subject 107/182 AHAB_107
+ROI extraction subject 108/182 AHAB_108
+ROI extraction subject 109/182 AHAB_109
+ROI extraction subject 110/182 AHAB_110
+ROI extraction subject 111/182 AHAB_111
+ROI extraction subject 112/182 AHAB_112
+ROI extraction subject 113/182 AHAB_113
+ROI extraction subject 114/182 AHAB_114
+ROI extraction subject 115/182 AHAB_115
+ROI extraction subject 116/182 AHAB_116
+ROI extraction subject 117/182 AHAB_117
+ROI extraction subject 118/182 AHAB_118
+ROI extraction subject 119/182 AHAB_119
+ROI extraction subject 120/182 AHAB_120
+ROI extraction subject 121/182 AHAB_121
+ROI extraction subject 122/182 AHAB_122
+ROI extraction subject 123/182 AHAB_123
+ROI extraction subject 124/182 AHAB_124
+ROI extraction subject 125/182 AHAB_125
+ROI extraction subject 126/182 AHAB_126
+ROI extraction subject 127/182 AHAB_127
+ROI extraction subject 128/182 AHAB_128
+ROI extraction subject 129/182 AHAB_129
+ROI extraction subject 130/182 AHAB_130
+ROI extraction subject 131/182 AHAB_131
+ROI extraction subject 132/182 AHAB_132
+ROI extraction subject 133/182 AHAB_133
+ROI extraction subject 134/182 AHAB_134
+ROI extraction subject 135/182 AHAB_135
+ROI extraction subject 136/182 AHAB_136
+ROI extraction subject 137/182 AHAB_137
+ROI extraction subject 138/182 AHAB_138
+ROI extraction subject 139/182 AHAB_139
+ROI extraction subject 140/182 AHAB_140
+ROI extraction subject 141/182 AHAB_141
+ROI extraction subject 142/182 AHAB_142
+ROI extraction subject 143/182 AHAB_143
+ROI extraction subject 144/182 AHAB_144
+ROI extraction subject 145/182 AHAB_145
+ROI extraction subject 146/182 AHAB_146
+ROI extraction subject 147/182 AHAB_147
+ROI extraction subject 148/182 AHAB_148
+ROI extraction subject 149/182 AHAB_149
+ROI extraction subject 150/182 AHAB_150
+ROI extraction subject 151/182 AHAB_151
+ROI extraction subject 152/182 AHAB_152
+ROI extraction subject 153/182 AHAB_153
+ROI extraction subject 154/182 AHAB_154
+ROI extraction subject 155/182 AHAB_155
+ROI extraction subject 156/182 AHAB_156
+ROI extraction subject 157/182 AHAB_157
+ROI extraction subject 158/182 AHAB_158
+ROI extraction subject 159/182 AHAB_159
+ROI extraction subject 160/182 AHAB_160
+ROI extraction subject 161/182 AHAB_161
+ROI extraction subject 162/182 AHAB_162
+ROI extraction subject 163/182 AHAB_163
+ROI extraction subject 164/182 AHAB_164
+ROI extraction subject 165/182 AHAB_165
+ROI extraction subject 166/182 AHAB_166
+ROI extraction subject 167/182 AHAB_167
+ROI extraction subject 168/182 AHAB_168
+ROI extraction subject 169/182 AHAB_169
+ROI extraction subject 170/182 AHAB_170
+ROI extraction subject 171/182 AHAB_171
+ROI extraction subject 172/182 AHAB_172
+ROI extraction subject 173/182 AHAB_173
+ROI extraction subject 174/182 AHAB_174
+ROI extraction subject 175/182 AHAB_175
+ROI extraction subject 176/182 AHAB_176
+ROI extraction subject 177/182 AHAB_177
+ROI extraction subject 178/182 AHAB_178
+ROI extraction subject 179/182 AHAB_179
+ROI extraction subject 180/182 AHAB_180
+ROI extraction subject 181/182 AHAB_181
+ROI extraction subject 182/182 AHAB_182
+Running Route B Bayesian hierarchical ROI mixture clustering. K grid: 2, 3, 4, 5, 6
+Route B MCMC K=2, iter=4000
+ROI MCMC iter 100/4000
+ROI MCMC iter 200/4000
+ROI MCMC iter 300/4000
+ROI MCMC iter 400/4000
+ROI MCMC iter 500/4000
+ROI MCMC iter 600/4000
+ROI MCMC iter 700/4000
+ROI MCMC iter 800/4000
+ROI MCMC iter 900/4000
+ROI MCMC iter 1000/4000
+ROI MCMC iter 1100/4000
+ROI MCMC iter 1200/4000
+ROI MCMC iter 1300/4000
+ROI MCMC iter 1400/4000
+ROI MCMC iter 1500/4000
+ROI MCMC iter 1600/4000
+ROI MCMC iter 1700/4000
+ROI MCMC iter 1800/4000
+ROI MCMC iter 1900/4000
+ROI MCMC iter 2000/4000
+ROI MCMC iter 2100/4000
+ROI MCMC iter 2200/4000
+ROI MCMC iter 2300/4000
+ROI MCMC iter 2400/4000
+ROI MCMC iter 2500/4000
+ROI MCMC iter 2600/4000
+ROI MCMC iter 2700/4000
+ROI MCMC iter 2800/4000
+ROI MCMC iter 2900/4000
+ROI MCMC iter 3000/4000
+ROI MCMC iter 3100/4000
+ROI MCMC iter 3200/4000
+ROI MCMC iter 3300/4000
+ROI MCMC iter 3400/4000
+ROI MCMC iter 3500/4000
+ROI MCMC iter 3600/4000
+ROI MCMC iter 3700/4000
+ROI MCMC iter 3800/4000
+ROI MCMC iter 3900/4000
+ROI MCMC iter 4000/4000
+Route B MCMC K=3, iter=4000
+ROI MCMC iter 100/4000
+ROI MCMC iter 200/4000
+ROI MCMC iter 300/4000
+ROI MCMC iter 400/4000
+ROI MCMC iter 500/4000
+ROI MCMC iter 600/4000
+ROI MCMC iter 700/4000
+ROI MCMC iter 800/4000
+ROI MCMC iter 900/4000
+ROI MCMC iter 1000/4000
+ROI MCMC iter 1100/4000
+ROI MCMC iter 1200/4000
+ROI MCMC iter 1300/4000
+ROI MCMC iter 1400/4000
+ROI MCMC iter 1500/4000
+ROI MCMC iter 1600/4000
+ROI MCMC iter 1700/4000
+ROI MCMC iter 1800/4000
+ROI MCMC iter 1900/4000
+ROI MCMC iter 2000/4000
+ROI MCMC iter 2100/4000
+ROI MCMC iter 2200/4000
+ROI MCMC iter 2300/4000
+ROI MCMC iter 2400/4000
+ROI MCMC iter 2500/4000
+ROI MCMC iter 2600/4000
+ROI MCMC iter 2700/4000
+ROI MCMC iter 2800/4000
+ROI MCMC iter 2900/4000
+ROI MCMC iter 3000/4000
+ROI MCMC iter 3100/4000
+ROI MCMC iter 3200/4000
+ROI MCMC iter 3300/4000
+ROI MCMC iter 3400/4000
+ROI MCMC iter 3500/4000
+ROI MCMC iter 3600/4000
+ROI MCMC iter 3700/4000
+ROI MCMC iter 3800/4000
+ROI MCMC iter 3900/4000
+ROI MCMC iter 4000/4000
+Route B MCMC K=4, iter=4000
+ROI MCMC iter 100/4000
+ROI MCMC iter 200/4000
+ROI MCMC iter 300/4000
+ROI MCMC iter 400/4000
+ROI MCMC iter 500/4000
+ROI MCMC iter 600/4000
+ROI MCMC iter 700/4000
+ROI MCMC iter 800/4000
+ROI MCMC iter 900/4000
+ROI MCMC iter 1000/4000
+ROI MCMC iter 1100/4000
+ROI MCMC iter 1200/4000
+ROI MCMC iter 1300/4000
+ROI MCMC iter 1400/4000
+ROI MCMC iter 1500/4000
+ROI MCMC iter 1600/4000
+ROI MCMC iter 1700/4000
+ROI MCMC iter 1800/4000
+ROI MCMC iter 1900/4000
+ROI MCMC iter 2000/4000
+ROI MCMC iter 2100/4000
+ROI MCMC iter 2200/4000
+ROI MCMC iter 2300/4000
+ROI MCMC iter 2400/4000
+ROI MCMC iter 2500/4000
+ROI MCMC iter 2600/4000
+ROI MCMC iter 2700/4000
+ROI MCMC iter 2800/4000
+ROI MCMC iter 2900/4000
+ROI MCMC iter 3000/4000
+ROI MCMC iter 3100/4000
+ROI MCMC iter 3200/4000
+ROI MCMC iter 3300/4000
+ROI MCMC iter 3400/4000
+ROI MCMC iter 3500/4000
+ROI MCMC iter 3600/4000
+ROI MCMC iter 3700/4000
+ROI MCMC iter 3800/4000
+ROI MCMC iter 3900/4000
+ROI MCMC iter 4000/4000
+Route B MCMC K=5, iter=4000
+ROI MCMC iter 100/4000
+ROI MCMC iter 200/4000
+ROI MCMC iter 300/4000
+ROI MCMC iter 400/4000
+ROI MCMC iter 500/4000
+ROI MCMC iter 600/4000
+ROI MCMC iter 700/4000
+ROI MCMC iter 800/4000
+ROI MCMC iter 900/4000
+ROI MCMC iter 1000/4000
+ROI MCMC iter 1100/4000
+ROI MCMC iter 1200/4000
+ROI MCMC iter 1300/4000
+ROI MCMC iter 1400/4000
+ROI MCMC iter 1500/4000
+ROI MCMC iter 1600/4000
+ROI MCMC iter 1700/4000
+ROI MCMC iter 1800/4000
+ROI MCMC iter 1900/4000
+ROI MCMC iter 2000/4000
+ROI MCMC iter 2100/4000
+ROI MCMC iter 2200/4000
+ROI MCMC iter 2300/4000
+ROI MCMC iter 2400/4000
+ROI MCMC iter 2500/4000
+ROI MCMC iter 2600/4000
+ROI MCMC iter 2700/4000
+ROI MCMC iter 2800/4000
+ROI MCMC iter 2900/4000
+ROI MCMC iter 3000/4000
+ROI MCMC iter 3100/4000
+ROI MCMC iter 3200/4000
+ROI MCMC iter 3300/4000
+ROI MCMC iter 3400/4000
+ROI MCMC iter 3500/4000
+ROI MCMC iter 3600/4000
+ROI MCMC iter 3700/4000
+ROI MCMC iter 3800/4000
+ROI MCMC iter 3900/4000
+ROI MCMC iter 4000/4000
+Route B MCMC K=6, iter=4000
+ROI MCMC iter 100/4000
+ROI MCMC iter 200/4000
+ROI MCMC iter 300/4000
+ROI MCMC iter 400/4000
+ROI MCMC iter 500/4000
+ROI MCMC iter 600/4000
+ROI MCMC iter 700/4000
+ROI MCMC iter 800/4000
+ROI MCMC iter 900/4000
+ROI MCMC iter 1000/4000
+ROI MCMC iter 1100/4000
+ROI MCMC iter 1200/4000
+ROI MCMC iter 1300/4000
+ROI MCMC iter 1400/4000
+ROI MCMC iter 1500/4000
+ROI MCMC iter 1600/4000
+ROI MCMC iter 1700/4000
+ROI MCMC iter 1800/4000
+ROI MCMC iter 1900/4000
+ROI MCMC iter 2000/4000
+ROI MCMC iter 2100/4000
+ROI MCMC iter 2200/4000
+ROI MCMC iter 2300/4000
+ROI MCMC iter 2400/4000
+ROI MCMC iter 2500/4000
+ROI MCMC iter 2600/4000
+ROI MCMC iter 2700/4000
+ROI MCMC iter 2800/4000
+ROI MCMC iter 2900/4000
+ROI MCMC iter 3000/4000
+ROI MCMC iter 3100/4000
+ROI MCMC iter 3200/4000
+ROI MCMC iter 3300/4000
+ROI MCMC iter 3400/4000
+ROI MCMC iter 3500/4000
+ROI MCMC iter 3600/4000
+ROI MCMC iter 3700/4000
+ROI MCMC iter 3800/4000
+ROI MCMC iter 3900/4000
+ROI MCMC iter 4000/4000
+Warning messages:
+1: Some Pareto k diagnostic values are too high. See help('pareto-k-diagnostic') for details.
+ 
+2: Some Pareto k diagnostic values are too high. See help('pareto-k-diagnostic') for details.
+ 
+3: Some Pareto k diagnostic values are too high. See help('pareto-k-diagnostic') for details.
+ 
+4: Some Pareto k diagnostic values are too high. See help('pareto-k-diagnostic') for details.
+ 
+5: Some Pareto k diagnostic values are too high. See help('pareto-k-diagnostic') for details.
+ 
+Building Route B ROI units from original system maps: source=downloaded
+Extracting subject-by-ROI features. All ROI observations are pooled for Route B MCMC.
+ROI extraction subject 1/176 PIP_1
+ROI extraction subject 2/176 PIP_2
+ROI extraction subject 3/176 PIP_3
+ROI extraction subject 4/176 PIP_4
+ROI extraction subject 5/176 PIP_5
+ROI extraction subject 6/176 PIP_6
+ROI extraction subject 7/176 PIP_7
+ROI extraction subject 8/176 PIP_8
+ROI extraction subject 9/176 PIP_9
+ROI extraction subject 10/176 PIP_10
+ROI extraction subject 11/176 PIP_11
+ROI extraction subject 12/176 PIP_12
+ROI extraction subject 13/176 PIP_13
+ROI extraction subject 14/176 PIP_14
+ROI extraction subject 15/176 PIP_15
+ROI extraction subject 16/176 PIP_16
+ROI extraction subject 17/176 PIP_17
+ROI extraction subject 18/176 PIP_18
+ROI extraction subject 19/176 PIP_19
+ROI extraction subject 20/176 PIP_20
+ROI extraction subject 21/176 PIP_21
+ROI extraction subject 22/176 PIP_22
+ROI extraction subject 23/176 PIP_23
+ROI extraction subject 24/176 PIP_24
+ROI extraction subject 25/176 PIP_25
+ROI extraction subject 26/176 PIP_26
+ROI extraction subject 27/176 PIP_27
+ROI extraction subject 28/176 PIP_28
+ROI extraction subject 29/176 PIP_29
+ROI extraction subject 30/176 PIP_30
+ROI extraction subject 31/176 PIP_31
+ROI extraction subject 32/176 PIP_32
+ROI extraction subject 33/176 PIP_33
+ROI extraction subject 34/176 PIP_34
+ROI extraction subject 35/176 PIP_35
+ROI extraction subject 36/176 PIP_36
+ROI extraction subject 37/176 PIP_37
+ROI extraction subject 38/176 PIP_38
+ROI extraction subject 39/176 PIP_39
+ROI extraction subject 40/176 PIP_40
+ROI extraction subject 41/176 PIP_41
+ROI extraction subject 42/176 PIP_42
+ROI extraction subject 43/176 PIP_43
+ROI extraction subject 44/176 PIP_44
+ROI extraction subject 45/176 PIP_45
+ROI extraction subject 46/176 PIP_46
+ROI extraction subject 47/176 PIP_47
+ROI extraction subject 48/176 PIP_48
+ROI extraction subject 49/176 PIP_49
+ROI extraction subject 50/176 PIP_50
+ROI extraction subject 51/176 PIP_51
+ROI extraction subject 52/176 PIP_52
+ROI extraction subject 53/176 PIP_53
+ROI extraction subject 54/176 PIP_54
+ROI extraction subject 55/176 PIP_55
+ROI extraction subject 56/176 PIP_56
+ROI extraction subject 57/176 PIP_57
+ROI extraction subject 58/176 PIP_58
+ROI extraction subject 59/176 PIP_59
+ROI extraction subject 60/176 PIP_60
+ROI extraction subject 61/176 PIP_61
+ROI extraction subject 62/176 PIP_62
+ROI extraction subject 63/176 PIP_63
+ROI extraction subject 64/176 PIP_64
+ROI extraction subject 65/176 PIP_65
+ROI extraction subject 66/176 PIP_66
+ROI extraction subject 67/176 PIP_67
+ROI extraction subject 68/176 PIP_68
+ROI extraction subject 69/176 PIP_69
+ROI extraction subject 70/176 PIP_70
+ROI extraction subject 71/176 PIP_71
+ROI extraction subject 72/176 PIP_72
+ROI extraction subject 73/176 PIP_73
+ROI extraction subject 74/176 PIP_74
+ROI extraction subject 75/176 PIP_75
+ROI extraction subject 76/176 PIP_76
+ROI extraction subject 77/176 PIP_77
+ROI extraction subject 78/176 PIP_78
+ROI extraction subject 79/176 PIP_79
+ROI extraction subject 80/176 PIP_80
+ROI extraction subject 81/176 PIP_81
+ROI extraction subject 82/176 PIP_82
+ROI extraction subject 83/176 PIP_83
+ROI extraction subject 84/176 PIP_84
+ROI extraction subject 85/176 PIP_85
+ROI extraction subject 86/176 PIP_86
+ROI extraction subject 87/176 PIP_87
+ROI extraction subject 88/176 PIP_88
+ROI extraction subject 89/176 PIP_89
+ROI extraction subject 90/176 PIP_90
+ROI extraction subject 91/176 PIP_91
+ROI extraction subject 92/176 PIP_92
+ROI extraction subject 93/176 PIP_93
+ROI extraction subject 94/176 PIP_94
+ROI extraction subject 95/176 PIP_95
+ROI extraction subject 96/176 PIP_96
+ROI extraction subject 97/176 PIP_97
+ROI extraction subject 98/176 PIP_98
+ROI extraction subject 99/176 PIP_99
+ROI extraction subject 100/176 PIP_100
+ROI extraction subject 101/176 PIP_101
+ROI extraction subject 102/176 PIP_102
+ROI extraction subject 103/176 PIP_103
+ROI extraction subject 104/176 PIP_104
+ROI extraction subject 105/176 PIP_105
+ROI extraction subject 106/176 PIP_106
+ROI extraction subject 107/176 PIP_107
+ROI extraction subject 108/176 PIP_108
+ROI extraction subject 109/176 PIP_109
+ROI extraction subject 110/176 PIP_110
+ROI extraction subject 111/176 PIP_111
+ROI extraction subject 112/176 PIP_112
+ROI extraction subject 113/176 PIP_113
+ROI extraction subject 114/176 PIP_114
+ROI extraction subject 115/176 PIP_115
+ROI extraction subject 116/176 PIP_116
+ROI extraction subject 117/176 PIP_117
+ROI extraction subject 118/176 PIP_118
+ROI extraction subject 119/176 PIP_119
+ROI extraction subject 120/176 PIP_120
+ROI extraction subject 121/176 PIP_121
+ROI extraction subject 122/176 PIP_122
+ROI extraction subject 123/176 PIP_123
+ROI extraction subject 124/176 PIP_124
+ROI extraction subject 125/176 PIP_125
+ROI extraction subject 126/176 PIP_126
+ROI extraction subject 127/176 PIP_127
+ROI extraction subject 128/176 PIP_128
+ROI extraction subject 129/176 PIP_129
+ROI extraction subject 130/176 PIP_130
+ROI extraction subject 131/176 PIP_131
+ROI extraction subject 132/176 PIP_132
+ROI extraction subject 133/176 PIP_133
+ROI extraction subject 134/176 PIP_134
+ROI extraction subject 135/176 PIP_135
+ROI extraction subject 136/176 PIP_136
+ROI extraction subject 137/176 PIP_137
+ROI extraction subject 138/176 PIP_138
+ROI extraction subject 139/176 PIP_139
+ROI extraction subject 140/176 PIP_140
+ROI extraction subject 141/176 PIP_141
+ROI extraction subject 142/176 PIP_142
+ROI extraction subject 143/176 PIP_143
+ROI extraction subject 144/176 PIP_144
+ROI extraction subject 145/176 PIP_145
+ROI extraction subject 146/176 PIP_146
+ROI extraction subject 147/176 PIP_147
+ROI extraction subject 148/176 PIP_148
+ROI extraction subject 149/176 PIP_149
+ROI extraction subject 150/176 PIP_150
+ROI extraction subject 151/176 PIP_151
+ROI extraction subject 152/176 PIP_152
+ROI extraction subject 153/176 PIP_153
+ROI extraction subject 154/176 PIP_154
+ROI extraction subject 155/176 PIP_155
+ROI extraction subject 156/176 PIP_156
+ROI extraction subject 157/176 PIP_157
+ROI extraction subject 158/176 PIP_158
+ROI extraction subject 159/176 PIP_159
+ROI extraction subject 160/176 PIP_160
+ROI extraction subject 161/176 PIP_161
+ROI extraction subject 162/176 PIP_162
+ROI extraction subject 163/176 PIP_163
+ROI extraction subject 164/176 PIP_164
+ROI extraction subject 165/176 PIP_165
+ROI extraction subject 166/176 PIP_166
+ROI extraction subject 167/176 PIP_167
+ROI extraction subject 168/176 PIP_168
+ROI extraction subject 169/176 PIP_169
+ROI extraction subject 170/176 PIP_170
+ROI extraction subject 171/176 PIP_171
+ROI extraction subject 172/176 PIP_172
+ROI extraction subject 173/176 PIP_173
+ROI extraction subject 174/176 PIP_174
+ROI extraction subject 175/176 PIP_175
+ROI extraction subject 176/176 PIP_176
+Running Route B Bayesian hierarchical ROI mixture clustering. K grid: 2, 3, 4, 5, 6
+Route B MCMC K=2, iter=4000
+ROI MCMC iter 100/4000
+ROI MCMC iter 200/4000
+ROI MCMC iter 300/4000
+ROI MCMC iter 400/4000
+ROI MCMC iter 500/4000
+ROI MCMC iter 600/4000
+ROI MCMC iter 700/4000
+ROI MCMC iter 800/4000
+ROI MCMC iter 900/4000
+ROI MCMC iter 1000/4000
+ROI MCMC iter 1100/4000
+ROI MCMC iter 1200/4000
+ROI MCMC iter 1300/4000
+ROI MCMC iter 1400/4000
+ROI MCMC iter 1500/4000
+ROI MCMC iter 1600/4000
+ROI MCMC iter 1700/4000
+ROI MCMC iter 1800/4000
+ROI MCMC iter 1900/4000
+ROI MCMC iter 2000/4000
+ROI MCMC iter 2100/4000
+ROI MCMC iter 2200/4000
+ROI MCMC iter 2300/4000
+ROI MCMC iter 2400/4000
+ROI MCMC iter 2500/4000
+ROI MCMC iter 2600/4000
+ROI MCMC iter 2700/4000
+ROI MCMC iter 2800/4000
+ROI MCMC iter 2900/4000
+ROI MCMC iter 3000/4000
+ROI MCMC iter 3100/4000
+ROI MCMC iter 3200/4000
+ROI MCMC iter 3300/4000
+ROI MCMC iter 3400/4000
+ROI MCMC iter 3500/4000
+ROI MCMC iter 3600/4000
+ROI MCMC iter 3700/4000
+ROI MCMC iter 3800/4000
+ROI MCMC iter 3900/4000
+ROI MCMC iter 4000/4000
+Route B MCMC K=3, iter=4000
+ROI MCMC iter 100/4000
+ROI MCMC iter 200/4000
+ROI MCMC iter 300/4000
+ROI MCMC iter 400/4000
+ROI MCMC iter 500/4000
+ROI MCMC iter 600/4000
+ROI MCMC iter 700/4000
+ROI MCMC iter 800/4000
+ROI MCMC iter 900/4000
+ROI MCMC iter 1000/4000
+ROI MCMC iter 1100/4000
+ROI MCMC iter 1200/4000
+ROI MCMC iter 1300/4000
+ROI MCMC iter 1400/4000
+ROI MCMC iter 1500/4000
+ROI MCMC iter 1600/4000
+ROI MCMC iter 1700/4000
+ROI MCMC iter 1800/4000
+ROI MCMC iter 1900/4000
+ROI MCMC iter 2000/4000
+ROI MCMC iter 2100/4000
+ROI MCMC iter 2200/4000
+ROI MCMC iter 2300/4000
+ROI MCMC iter 2400/4000
+ROI MCMC iter 2500/4000
+ROI MCMC iter 2600/4000
+ROI MCMC iter 2700/4000
+ROI MCMC iter 2800/4000
+ROI MCMC iter 2900/4000
+ROI MCMC iter 3000/4000
+ROI MCMC iter 3100/4000
+ROI MCMC iter 3200/4000
+ROI MCMC iter 3300/4000
+ROI MCMC iter 3400/4000
+ROI MCMC iter 3500/4000
+ROI MCMC iter 3600/4000
+ROI MCMC iter 3700/4000
+ROI MCMC iter 3800/4000
+ROI MCMC iter 3900/4000
+ROI MCMC iter 4000/4000
+Route B MCMC K=4, iter=4000
+ROI MCMC iter 100/4000
+ROI MCMC iter 200/4000
+ROI MCMC iter 300/4000
+ROI MCMC iter 400/4000
+ROI MCMC iter 500/4000
+ROI MCMC iter 600/4000
+ROI MCMC iter 700/4000
+ROI MCMC iter 800/4000
+ROI MCMC iter 900/4000
+ROI MCMC iter 1000/4000
+ROI MCMC iter 1100/4000
+ROI MCMC iter 1200/4000
+ROI MCMC iter 1300/4000
+ROI MCMC iter 1400/4000
+ROI MCMC iter 1500/4000
+ROI MCMC iter 1600/4000
+ROI MCMC iter 1700/4000
+ROI MCMC iter 1800/4000
+ROI MCMC iter 1900/4000
+ROI MCMC iter 2000/4000
+ROI MCMC iter 2100/4000
+ROI MCMC iter 2200/4000
+ROI MCMC iter 2300/4000
+ROI MCMC iter 2400/4000
+ROI MCMC iter 2500/4000
+ROI MCMC iter 2600/4000
+ROI MCMC iter 2700/4000
+ROI MCMC iter 2800/4000
+ROI MCMC iter 2900/4000
+ROI MCMC iter 3000/4000
+ROI MCMC iter 3100/4000
+ROI MCMC iter 3200/4000
+ROI MCMC iter 3300/4000
+ROI MCMC iter 3400/4000
+ROI MCMC iter 3500/4000
+ROI MCMC iter 3600/4000
+ROI MCMC iter 3700/4000
+ROI MCMC iter 3800/4000
+ROI MCMC iter 3900/4000
+ROI MCMC iter 4000/4000
+Route B MCMC K=5, iter=4000
+ROI MCMC iter 100/4000
+ROI MCMC iter 200/4000
+ROI MCMC iter 300/4000
+ROI MCMC iter 400/4000
+ROI MCMC iter 500/4000
+ROI MCMC iter 600/4000
+ROI MCMC iter 700/4000
+ROI MCMC iter 800/4000
+ROI MCMC iter 900/4000
+ROI MCMC iter 1000/4000
+ROI MCMC iter 1100/4000
+ROI MCMC iter 1200/4000
+ROI MCMC iter 1300/4000
+ROI MCMC iter 1400/4000
+ROI MCMC iter 1500/4000
+ROI MCMC iter 1600/4000
+ROI MCMC iter 1700/4000
+ROI MCMC iter 1800/4000
+ROI MCMC iter 1900/4000
+ROI MCMC iter 2000/4000
+ROI MCMC iter 2100/4000
+ROI MCMC iter 2200/4000
+ROI MCMC iter 2300/4000
+ROI MCMC iter 2400/4000
+ROI MCMC iter 2500/4000
+ROI MCMC iter 2600/4000
+ROI MCMC iter 2700/4000
+ROI MCMC iter 2800/4000
+ROI MCMC iter 2900/4000
+ROI MCMC iter 3000/4000
+ROI MCMC iter 3100/4000
+ROI MCMC iter 3200/4000
+ROI MCMC iter 3300/4000
+ROI MCMC iter 3400/4000
+ROI MCMC iter 3500/4000
+ROI MCMC iter 3600/4000
+ROI MCMC iter 3700/4000
+ROI MCMC iter 3800/4000
+ROI MCMC iter 3900/4000
+ROI MCMC iter 4000/4000
+Route B MCMC K=6, iter=4000
+ROI MCMC iter 100/4000
+ROI MCMC iter 200/4000
+ROI MCMC iter 300/4000
+ROI MCMC iter 400/4000
+ROI MCMC iter 500/4000
+ROI MCMC iter 600/4000
+ROI MCMC iter 700/4000
+ROI MCMC iter 800/4000
+ROI MCMC iter 900/4000
+ROI MCMC iter 1000/4000
+ROI MCMC iter 1100/4000
+ROI MCMC iter 1200/4000
+ROI MCMC iter 1300/4000
+ROI MCMC iter 1400/4000
+ROI MCMC iter 1500/4000
+ROI MCMC iter 1600/4000
+ROI MCMC iter 1700/4000
+ROI MCMC iter 1800/4000
+ROI MCMC iter 1900/4000
+ROI MCMC iter 2000/4000
+ROI MCMC iter 2100/4000
+ROI MCMC iter 2200/4000
+ROI MCMC iter 2300/4000
+ROI MCMC iter 2400/4000
+ROI MCMC iter 2500/4000
+ROI MCMC iter 2600/4000
+ROI MCMC iter 2700/4000
+ROI MCMC iter 2800/4000
+ROI MCMC iter 2900/4000
+ROI MCMC iter 3000/4000
+ROI MCMC iter 3100/4000
+ROI MCMC iter 3200/4000
+ROI MCMC iter 3300/4000
+ROI MCMC iter 3400/4000
+ROI MCMC iter 3500/4000
+ROI MCMC iter 3600/4000
+ROI MCMC iter 3700/4000
+ROI MCMC iter 3800/4000
+ROI MCMC iter 3900/4000
+ROI MCMC iter 4000/4000
+Warning messages:
+1: Some Pareto k diagnostic values are too high. See help('pareto-k-diagnostic') for details.
+ 
+2: Some Pareto k diagnostic values are too high. See help('pareto-k-diagnostic') for details.
+ 
+3: Some Pareto k diagnostic values are too high. See help('pareto-k-diagnostic') for details.
+ 
+4: Some Pareto k diagnostic values are too high. See help('pareto-k-diagnostic') for details.
+ 
+5: Some Pareto k diagnostic values are too high. See help('pareto-k-diagnostic') for details.
+ 
+Warning messages:
+1: In RNifti::writeNifti(arr, file = out_path, template = ref, datatype = dtype) :
+  nifti_image_write_engine: cannot open output file 'C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/route_B_bottomup_mcmc/outputs/dataset_comparison/AHAB_PIP/nifti/model_consensus_match_01_AHAB_cluster_02_PIP_cluster_01.nii.gz'
+2: In RNifti::writeNifti(arr, file = out_path, template = ref, datatype = dtype) :
+  nifti_image_write_engine: cannot open output file 'C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/route_B_bottomup_mcmc/outputs/dataset_comparison/AHAB_PIP/nifti/model_consensus_match_02_AHAB_cluster_01_PIP_cluster_02.nii.gz'

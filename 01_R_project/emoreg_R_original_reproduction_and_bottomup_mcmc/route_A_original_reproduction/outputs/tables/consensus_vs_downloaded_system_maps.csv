@@ -1,0 +1,5 @@
+dice,jaccard,intersection_voxels,a_voxels,b_voxels,system,original_map
+0.826562648653791,0.70439435706178,13032,18489,13044,common_appraisal,Common Appraisal.nii
+0.734945325735407,0.580959337716094,2386,4052,2441,reappraisal_only,Reappraisal Only.nii
+0.69270268611526,0.529873869362461,16930,31835,17046,non_modifiable_emotion,Non-modifiable Emotion.nii
+0.809002045919527,0.679264009772484,8897,13087,8908,modifiable_emotion,Modifiable Emotion.nii

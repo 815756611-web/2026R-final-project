@@ -1,0 +1,5 @@
+dataset,tag,system,n_subjects,bf_method,bf_threshold_2log,voxels_before_cluster,voxels_after_cluster,cluster_min_voxels
+PIP,PIP,common_appraisal,176,jzs_exact,4.6,5738,5640,15
+PIP,PIP,reappraisal_only,176,jzs_exact,4.6,2707,2464,15
+PIP,PIP,non_modifiable_emotion,176,jzs_exact,4.6,13566,13290,15
+PIP,PIP,modifiable_emotion,176,jzs_exact,4.6,5865,5775,15

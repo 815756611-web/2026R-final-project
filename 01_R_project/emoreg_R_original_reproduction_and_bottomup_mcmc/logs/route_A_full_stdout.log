@@ -1,0 +1,23 @@
+Cleaned output: Route A outputs
+
+>>> Rscript scripts/00_install_r_packages.R
+R package check complete.
+
+>>> Rscript scripts/00_setup_relative_data.R
+Relative data files are ready under C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/data/raw
+Linked/copied file counts:
+  beta_maps: 1074
+  system_maps: 16
+  pet_maps: 58
+  behavior: 11
+
+>>> Rscript route_A_original_reproduction/scripts/01_prepare_behavior.R
+Behavior data prepared:
+  C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/data/processed/behavior_clean.csv
+  C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/data/processed/behavior_clean.rds
+
+>>> Rscript route_A_original_reproduction/scripts/02_original_reproduction.R --dataset AHAB --bf-method jzs_exact --tag AHAB
+Original-style reproduction complete for AHAB:
+  C:/Users/81575/Desktop/vscode_box/emoreg_project_annotation_copy_2026-06-26/01_R_project/emoreg_R_original_reproduction_and_bottomup_mcmc/route_A_original_reproduction/outputs/tables/original_system_voxel_summary_AHAB.csv
+
+>>> Rscript route_A_original_reproduction/scripts/02_original_reproduction.R --dataset PIP --bf-method jzs_exact --tag PIP
