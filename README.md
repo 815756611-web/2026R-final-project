@@ -41,8 +41,7 @@ R 项目的主体目录。
 
 ## 使用说明
 
-如果要复现实验，主要查看 `01_R_project`。
+我的复现工作主要可以查看 `01_R_project`。
 
 - 看 Route A：进入 `route_A_original_reproduction/`
 - 看 Route B：进入 `route_B_bottomup_mcmc/`
-- 缺失的数据部分请先根据链接说明自行下载或按代码重新生成
