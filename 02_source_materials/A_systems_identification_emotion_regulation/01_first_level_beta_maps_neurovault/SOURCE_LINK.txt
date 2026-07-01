@@ -1,5 +1,6 @@
-这个目录在原副本中对应单被试 beta 图。
+GitHub 空间有限，本处不直接提供该部分原始数据文件。
 
-公开来源：
+这个目录在原副本中对应单被试 beta 图，原始数据公开链接如下：
+
 - NeuroVault collection 16266
 - https://neurovault.org/collections/16266/
